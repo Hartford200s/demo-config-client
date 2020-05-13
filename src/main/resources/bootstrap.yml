@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: tai-config 
+      profile: pro
+      uri: http://localhost:8001/
+      label: master
